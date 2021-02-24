@@ -1,6 +1,6 @@
 <?php
 
-
+//carrefa todas as classes na pasta class
 
 /*    spl_autoload_register(
         function ($class_name)
