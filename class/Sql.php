@@ -40,7 +40,7 @@ class Sql extends PDO {
         return $stmt;
 
     }
-
+   //$rawQuery recebe a linha , $paramns recebe um array de parametros
     public function select($rawQuery, $params = array())
     {
 
